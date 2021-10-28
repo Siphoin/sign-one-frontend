@@ -33,7 +33,7 @@ html, body {
     margin: 0 auto;
 }
 
-input[type=text], input[type=password] {
+input[type=text], input[type=password], input[type=email] {
     background-color: rgba(1, 2, 3, 0.5);
     outline: none;
     border: none;
